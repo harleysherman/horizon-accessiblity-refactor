@@ -25,6 +25,9 @@ There are no installatin instructions at this time.
 ## Usage
 
 ![Screenshot of original layout of Horiseon](assets/images/01-html-css-git-homework-demo.png)
+
+[Deployed Link](https://harleysherman.github.io/horizon-accessiblity-refactor/)
+
 ## Credits
 
 I would like to thank Leif Heltand for clearing up the understanding of semtanics for the header tag in both HTML and CSS.
